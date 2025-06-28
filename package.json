@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "CLI built in Node environment",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "note": "./index.js"
   },
@@ -10,5 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
 }
