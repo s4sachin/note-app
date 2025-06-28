@@ -10,6 +10,8 @@ import {
   newNote,
 } from "./note.js";
 
+import { start } from "./server.js";
+
 const listNotes = (notes) => {
   notes.forEach(({ id, content, tags }) => {
     console.log("id:", id);

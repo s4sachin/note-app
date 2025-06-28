@@ -1,3 +1,31 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "content": "clean my room",
+      "id": 1751125722709,
+      "tags": [
+        "clean",
+        " home",
+        " chores"
+      ]
+    },
+    {
+      "content": "study NodeJs",
+      "id": 1751125775394,
+      "tags": [
+        "node",
+        " js"
+      ]
+    },
+    {
+      "content": "walk my dog in the evening",
+      "id": 1751125807437,
+      "tags": [
+        "dog",
+        " pet",
+        " walk",
+        " evening"
+      ]
+    }
+  ]
 }
